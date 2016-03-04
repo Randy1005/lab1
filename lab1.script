@@ -1,12 +1,0 @@
-Script started on 2016年03月04日 (週五) 20時00分02秒
-]0;F74044070@2015cpp: ~F74044070@2015cpp:~$ whoami;pwd
-F74044070
-/home/F74044070
-]0;F74044070@2015cpp: ~F74044070@2015cpp:~$ https://github.com/Randy1005/lab1.g ithttps://github.com/Randy1005/lab1.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
-bash: https://github.com/Randy1005/lab1.git: No such file or directory
-]0;F74044070@2015cpp: ~F74044070@2015cpp:~$ git clone https://github.com/Randy1 005/lab1.git
-Cloning into 'lab1'...
-warning: You appear to have cloned an empty repository.
-]0;F74044070@2015cpp: ~F74044070@2015cpp:~$ exit
-
-Script done on 2016年03月04日 (週五) 20時03分38秒
