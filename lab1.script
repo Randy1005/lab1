@@ -1,0 +1,20 @@
+Script started on 2016年03月05日 (週六) 17時13分39秒
+]0;F74044070@2015cpp: ~/lab1[01;32mF74044070@2015cpp[00m:[01;34m~/lab1[00m$ whoami;ps[Kwd
+F74044070
+/home/F74044070/lab1
+]0;F74044070@2015cpp: ~/lab1[01;32mF74044070@2015cpp[00m:[01;34m~/lab1[00m$ git config -l
+user.name=Randy1005
+user.email=randychang.10@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+remote.origin.url=https://github.com/Randy1005/lab1.git
+branch.master.remote=Lab1
+branch.master.merge=refs/heads/master
+remote.Lab1.url=https://github.com/Randy1005/lab1.git
+remote.Lab1.fetch=+refs/heads/*:refs/remotes/Lab1/*
+]0;F74044070@2015cpp: ~/lab1[01;32mF74044070@2015cpp[00m:[01;34m~/lab1[00m$ exit
+
+Script done on 2016年03月05日 (週六) 17時14分13秒
